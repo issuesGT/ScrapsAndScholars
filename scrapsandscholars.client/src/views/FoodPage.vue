@@ -22,7 +22,7 @@
 </template>
 
 <script>
-  import Food from '../components/foodClip.vue'
+  import Food from '../components/FoodClip.vue'
   import { ref, computed, onMounted } from 'vue'
   import { useRouter } from 'vue-router'
   import axios from 'axios'

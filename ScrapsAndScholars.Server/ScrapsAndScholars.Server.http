@@ -1,0 +1,6 @@
+@ScrapsAndScholars.Server_HostAddress = http://localhost:5263
+
+#GET {{ScrapsAndScholars.Server_HostAddress}}/weatherforecast/
+#Accept: application/json
+
+###

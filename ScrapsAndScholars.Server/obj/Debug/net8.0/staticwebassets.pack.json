@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\UNI\\2dv609\\scrapsandscholars\\ScrapsAndScholars\\ScrapsAndScholars.Server\\wwwroot\\uploads\\28a7d00f-c930-41e4-94de-0877d2ca28d3.png",
+      "PackagePath": "staticwebassets\\uploads\\28a7d00f-c930-41e4-94de-0877d2ca28d3.png"
+    },
+    {
+      "Id": "E:\\UNI\\2dv609\\scrapsandscholars\\ScrapsAndScholars\\ScrapsAndScholars.Server\\wwwroot\\uploads\\3a841380-d472-4c10-b9d1-5ee7c5f08c6b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3a841380-d472-4c10-b9d1-5ee7c5f08c6b.jpg"
+    },
+    {
+      "Id": "E:\\UNI\\2dv609\\scrapsandscholars\\ScrapsAndScholars\\ScrapsAndScholars.Server\\wwwroot\\uploads\\96085ebb-0a43-47d1-9219-89d36b60cd70.png",
+      "PackagePath": "staticwebassets\\uploads\\96085ebb-0a43-47d1-9219-89d36b60cd70.png"
+    },
+    {
+      "Id": "E:\\UNI\\2dv609\\scrapsandscholars\\ScrapsAndScholars\\ScrapsAndScholars.Server\\wwwroot\\uploads\\9a2f0d0c-4ba9-4194-aacb-ad9b8577b21b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9a2f0d0c-4ba9-4194-aacb-ad9b8577b21b.jpg"
+    },
+    {
+      "Id": "E:\\UNI\\2dv609\\scrapsandscholars\\ScrapsAndScholars\\ScrapsAndScholars.Server\\wwwroot\\uploads\\b3316597-f353-4169-b11c-d4dfd8e1cc93.png",
+      "PackagePath": "staticwebassets\\uploads\\b3316597-f353-4169-b11c-d4dfd8e1cc93.png"
+    },
+    {
+      "Id": "E:\\UNI\\2dv609\\scrapsandscholars\\ScrapsAndScholars\\ScrapsAndScholars.Server\\wwwroot\\uploads\\ba72b5c1-0be8-4116-a99c-8c1def5ff0ec.png",
+      "PackagePath": "staticwebassets\\uploads\\ba72b5c1-0be8-4116-a99c-8c1def5ff0ec.png"
+    },
+    {
+      "Id": "E:\\UNI\\2dv609\\scrapsandscholars\\ScrapsAndScholars\\ScrapsAndScholars.Server\\wwwroot\\uploads\\f4ca2e5d-33b0-4408-9bfb-43dcf5322d54.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f4ca2e5d-33b0-4408-9bfb-43dcf5322d54.jpg"
+    },
+    {
+      "Id": "E:\\UNI\\2dv609\\scrapsandscholars\\ScrapsAndScholars\\ScrapsAndScholars.Server\\wwwroot\\uploads\\f67f4a04-807e-407c-95b9-a8fec3a6cedf.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f67f4a04-807e-407c-95b9-a8fec3a6cedf.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ScrapsAndScholars.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ScrapsAndScholars.Server.props",
+      "PackagePath": "build\\ScrapsAndScholars.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ScrapsAndScholars.Server.props",
+      "PackagePath": "buildMultiTargeting\\ScrapsAndScholars.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ScrapsAndScholars.Server.props",
+      "PackagePath": "buildTransitive\\ScrapsAndScholars.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "E:\\UNI\\2dv609\\scrapsandscholars\\ScrapsAndScholars\\ScrapsAndScholars.Server\\..\\scrapsandscholars.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

@@ -1,0 +1,17 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #F8F8F8;
+  font-family: 'Exo 2';
+}
+
+header {
+  position: absolute;
+  top: 0;
+  font-size: 18px;
+  font-family: 'exo 2', sans-serif, Helvetica, 'Times New';
+  width: 100%;
+  z-index: 2;
+}

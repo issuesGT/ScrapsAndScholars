@@ -1,0 +1,230 @@
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\spa.proxy.json
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\appsettings.Development.json
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\appsettings.json
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.exe
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.deps.json
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.runtimeconfig.json
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.dll
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.pdb
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.csproj.AssemblyReference.cache
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\spa.proxy.json
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.AssemblyInfoInputs.cache
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.AssemblyInfo.cs
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.csproj.CoreCompileInputs.cache
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.MvcApplicationPartsAssemblyInfo.cs
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.build.json
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.development.json
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.ScrapsAndScholars.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ScrapsAndScholars.Server.props
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ScrapsAndScholars.Server.props
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ScrapsAndScholars.Server.props
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.pack.json
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\scopedcss\bundle\ScrapsAndScholars.Server.styles.css
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAn.21643F24.Up2Date
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.dll
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\refint\ScrapsAndScholars.Server.dll
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.pdb
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.genruntimeconfig.cache
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ref\ScrapsAndScholars.Server.dll
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\appsettings.json
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\spa.proxy.json
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.staticwebassets.endpoints.json
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.exe
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.deps.json
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.runtimeconfig.json
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.dll
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.pdb
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.csproj.AssemblyReference.cache
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\spa.proxy.json
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.AssemblyInfoInputs.cache
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.AssemblyInfo.cs
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.csproj.CoreCompileInputs.cache
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\scopedcss\bundle\ScrapsAndScholars.Server.styles.css
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.ScrapsAndScholars.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.ScrapsAndScholars.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ScrapsAndScholars.Server.props
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ScrapsAndScholars.Server.props
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ScrapsAndScholars.Server.props
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAn.21643F24.Up2Date
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.dll
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\refint\ScrapsAndScholars.Server.dll
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.pdb
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.genruntimeconfig.cache
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ref\ScrapsAndScholars.Server.dll
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.staticwebassets.endpoints.json
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.exe
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.deps.json
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.runtimeconfig.json
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.dll
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.pdb
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.csproj.AssemblyReference.cache
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.AssemblyInfoInputs.cache
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.AssemblyInfo.cs
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.csproj.CoreCompileInputs.cache
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\scopedcss\bundle\ScrapsAndScholars.Server.styles.css
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.ScrapsAndScholars.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.ScrapsAndScholars.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ScrapsAndScholars.Server.props
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ScrapsAndScholars.Server.props
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ScrapsAndScholars.Server.props
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAn.21643F24.Up2Date
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.dll
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\refint\ScrapsAndScholars.Server.dll
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.pdb
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.genruntimeconfig.cache
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ref\ScrapsAndScholars.Server.dll
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.staticwebassets.endpoints.json
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.exe
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.deps.json
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.runtimeconfig.json
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.dll
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.pdb
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.csproj.AssemblyReference.cache
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.AssemblyInfoInputs.cache
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.AssemblyInfo.cs
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.csproj.CoreCompileInputs.cache
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\scopedcss\bundle\ScrapsAndScholars.Server.styles.css
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.ScrapsAndScholars.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.ScrapsAndScholars.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ScrapsAndScholars.Server.props
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ScrapsAndScholars.Server.props
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ScrapsAndScholars.Server.props
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAn.21643F24.Up2Date
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.dll
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\refint\ScrapsAndScholars.Server.dll
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.pdb
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.genruntimeconfig.cache
+C:\Users\atomz\Documents\programming\scraps and scholars\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ref\ScrapsAndScholars.Server.dll
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Properties\students.json
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Properties\students.json
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Properties\students.json
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.staticwebassets.endpoints.json
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.exe
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.deps.json
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.runtimeconfig.json
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.dll
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.pdb
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.csproj.AssemblyReference.cache
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.AssemblyInfoInputs.cache
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.AssemblyInfo.cs
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.csproj.CoreCompileInputs.cache
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\scopedcss\bundle\ScrapsAndScholars.Server.styles.css
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAn.21643F24.Up2Date
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.dll
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\refint\ScrapsAndScholars.Server.dll
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.pdb
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.genruntimeconfig.cache
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ref\ScrapsAndScholars.Server.dll
+C:\uni\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.staticwebassets.runtime.json
+C:\Users\maxar\Documents\Programmering\project2025\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.staticwebassets.runtime.json
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\spa.proxy.json
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\appsettings.Development.json
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\appsettings.json
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Properties\students.json
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.staticwebassets.runtime.json
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.staticwebassets.endpoints.json
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.exe
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.deps.json
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.runtimeconfig.json
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.dll
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.pdb
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.csproj.AssemblyReference.cache
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\spa.proxy.json
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.AssemblyInfoInputs.cache
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.AssemblyInfo.cs
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.csproj.CoreCompileInputs.cache
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.MvcApplicationPartsAssemblyInfo.cs
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\scopedcss\bundle\ScrapsAndScholars.Server.styles.css
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.build.json
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.development.json
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAn.21643F24.Up2Date
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.dll
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\refint\ScrapsAndScholars.Server.dll
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.pdb
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ScrapsAndScholars.Server.genruntimeconfig.cache
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\ref\ScrapsAndScholars.Server.dll
+E:\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\UNI\2dv609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.staticwebassets.runtime.json
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\Properties\students.json
+C:\Users\bonni\Programming\2DV609\scrapsandscholars\ScrapsAndScholars\ScrapsAndScholars.Server\bin\Debug\net8.0\ScrapsAndScholars.Server.staticwebassets.runtime.json

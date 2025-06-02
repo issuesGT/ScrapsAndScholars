@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Email": "aj225ef@student.lnu.se",
+    "Password": "password123",
+    "Credits": 200,
+    "Address": "123 Main St",
+    "Posts": []
+  },
+  {
+    "Id": 2,
+    "Email": "ma227jy@student.lnu.se",
+    "Password": "securepass",
+    "Credits": 200,
+    "Address": "456 Oak Ave",
+    "Posts": []
+  },
+  {
+    "Id": 3,
+    "Email": "bw222fy@student.lnu.se",
+    "Password": "pass123",
+    "Credits": 150,
+    "Address": "123 Ridge blv",
+    "Posts": []
+  }
+]
